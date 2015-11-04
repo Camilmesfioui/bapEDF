@@ -1,7 +1,7 @@
 # BAP EDF SITE WEB
 
 Intégrer les maquettes de Jessica (dossier maquettes)</br>
-Je vous mettrais les images (maison, mascotte, etc) dand le doc img/ quand ce sera bon, en attendant vous pouvez y mettre des img bidons en attendant</br>
+Je vous mettrais les images (maison, mascotte, etc) dand le doc img/ quand ce sera bon, en attendant vous pouvez y mettre des img bidons
 tout comme la typo (C'est TxtGyreAdventor sinon en vrai)</br>
 Attention à ne pas avoir de conflit dans les commits!!! </br>
 Bonne chance les gars !!!</br>
@@ -37,7 +37,7 @@ Une fois le visuel fini (en 2h max c'est facile) on se lance sur les animations 
 Modal page en javascript (Bootstrap en a une intégré donc c'est copier coller) </br>
 'Flotement' de la maison et de la pièce (comme sur un nuage, je veux que ca bouge ahah) </br>
 'Flottement' de la mascotte et de son panneau </br>
-Au refrech de la page les chiffres s'incrementent vite pour atteindre la valeur souhaitez </br>
+Au refresh de la page les chiffres s'incrementent vite pour atteindre la valeur souhaitée </br>
 Au refresh de la page la progress bar de l'humeur de la mascotte doit augmenter lentement pour atteindre sa valeur </br>
 
 # WARNING
