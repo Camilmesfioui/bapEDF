@@ -1,0 +1,30 @@
+.block-releve{
+    padding:20px;
+    padding-left:60px;
+    padding-left:60px;
+    background-color: #fff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    -webkit-border-radius:15px;
+    -moz-border-radius:15px;
+    border-radius:15px;
+    color: #9a9a9a;
+}
+.background{
+    background-color: #27b1bb;
+    height:100%;
+}
+.consommation-result{
+    -webkit-border-radius:50%;
+    -moz-border-radius:50%;
+    border-radius:50%;
+    border: 5px solid red;
+    line-height: 120px;
+    width: 120px;
+    height:120px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.border-left-consommation{
+    border-left: 1px solid #ccc;
+}
