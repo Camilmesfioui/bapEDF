@@ -1,41 +1,19 @@
-# Application eTicket
+# BAP EDF SITE WEB
+
+Intégrer les maquettes de Jessica sur la dropbox </br>
+Attention à ne pas avoir de conflit dans les commits!!! </br>
+Bonne chance les gars </br>
 
 ## ARBORESCENCE
 
-### /model
+index.html </br>
+style.css </br>
+js/ </br>
 
-+  User.php (boolean : admin)
-+  Bdd.php
 
-### /view
+## COMPONENENTS
 
-+  index.php
-+  signin.php
-+  signup.php
-+  products.php
-+  single-product.php
+Bootstrap deja intégré</br>
+Jquery autorisé </br>
+Créer des functions javascript </br>
 
-### /controller
-
-+  signinCtrl.php
-+  signupCtrl.php
-+  deconnexionCtrl.php
-+  reservationCtrl.php
-
-## Distribution des tâches
-
-### Fabien & Justine
-products.php </br>
-single-product.php </br>
-reservationCtrl.php </br>
-
-### Romain
-user.php </br>
-signin.php </br>
-signinCtrl.php </br>
-deconnexionCtrl.php </br>
-
-### Guillaume & Thomas
-bdd.php </br>
-signup.php </br>
-signupCtrl.php </br>
