@@ -1,0 +1,212 @@
+/* ---------------------------------------------------- */
+/*                                                      */
+/*        Keyframes d'animation du Background           */
+/*                                                      */
+/* ---------------------------------------------------- */
+
+/*************** Floor Animation *******************/
+
+@-webkit-keyframes FloorAnimate{
+    from{top: 50px}
+
+    8%{top: 45px}
+    16%{top: 55px}
+    24%{top: 50px}
+
+    to{top: 50px}
+}
+
+@-moz-keyframes FloorAnimate{
+    from{top: 50px}
+
+    8%{top: 45px}
+    16%{top: 55px}
+    24%{top: 50px}
+
+    to{top: 50px}
+}
+
+@-ms-keyframes FloorAnimate{
+    from{top: 50px}
+
+    8%{top: 45px}
+    16%{top: 55px}
+    24%{top: 50px}
+
+    to{top: 50px}
+}
+
+@-o-keyframes FloorAnimate{
+    from{top: 50px}
+
+    8%{top: 45px}
+    16%{top: 55px}
+    24%{top: 50px}
+
+    to{top: 50px}
+}
+
+@keyframes FloorAnimate{
+    from{top: 50px}
+
+    8%{top: 45px}
+    16%{top: 55px}
+    24%{top: 50px}
+
+    to{top: 50px}
+}
+
+/*************************************************/
+
+/*************** House Animation *******************/
+
+@-webkit-keyframes HouseAnimate{
+    from{top: 150px}
+
+    8%{top: 145px}
+    16%{top: 155px}
+    24%{top: 150px}
+
+    to{top: 150px}
+}
+
+@-moz-keyframes HouseAnimate{
+    from{top: 150px}
+
+    8%{top: 145px}
+    16%{top: 155px}
+    24%{top: 150px}
+
+    to{top: 150px}
+}
+
+@-ms-keyframes HouseAnimate{
+    from{top: 150px}
+
+    8%{top: 145px}
+    16%{top: 155px}
+    24%{top: 150px}
+
+    to{top: 150px}
+}
+
+@-o-keyframes HouseAnimate{
+    from{top: 150px}
+
+    8%{top: 145px}
+    16%{top: 155px}
+    24%{top: 150px}
+
+    to{top: 150px}
+}
+
+@keyframes HouseAnimate{
+    from{top: 150px}
+
+    8%{top: 145px}
+    16%{top: 155px}
+    24%{top: 150px}
+
+    to{top: 150px}
+}
+
+/*************************************************/
+
+/*************** Shadow Animation *******************/
+
+@-webkit-keyframes ShadowAnimate{
+    from{top: 200px; right: -2.5%;}
+
+    8%{
+        top: 205px;
+        right: -4%;
+    }
+    16%{
+        top: 195px;
+        right: -1%;
+    }
+    24%{
+        top: 200px;
+        right: -2.5%;
+    }
+
+    to{top: 200px; right: -2.5%;}
+}
+
+@-moz-keyframes ShadowAnimate{
+    from{top: 200px; right: -2.5%;}
+
+    8%{
+        top: 205px;
+        right: -4%;
+    }
+    16%{
+        top: 195px;
+        right: -1%;
+    }
+    24%{
+        top: 200px;
+        right: -2.5%;
+    }
+
+    to{top: 200px; right: -2.5%;}
+}
+
+@-ms-keyframes ShadowAnimate{
+    from{top: 200px; right: -2.5%;}
+
+    8%{
+        top: 205px;
+        right: -4%;
+    }
+    16%{
+        top: 195px;
+        right: -1%;
+    }
+    24%{
+        top: 200px;
+        right: -2.5%;
+    }
+
+    to{top: 200px; right: -2.5%;}
+}
+
+@-o-keyframes ShadowAnimate{
+    from{top: 200px; right: -2.5%;}
+
+    8%{
+        top: 205px;
+        right: -4%;
+    }
+    16%{
+        top: 195px;
+        right: -1%;
+    }
+    24%{
+        top: 200px;
+        right: -2.5%;
+    }
+
+    to{top: 200px; right: -2.5%;}
+}
+
+@keyframes ShadowAnimate{
+    from{top: 200px; right: -2.5%;}
+
+    8%{
+        top: 205px;
+        right: -4%;
+    }
+    16%{
+        top: 195px;
+        right: -1%;
+    }
+    24%{
+        top: 200px;
+        right: -2.5%;
+    }
+
+    to{top: 200px; right: -2.5%;}
+}
+
+/*************************************************/

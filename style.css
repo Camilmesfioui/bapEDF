@@ -28,3 +28,75 @@
 .border-left-consommation{
     border-left: 1px solid #ccc;
 }
+
+/* --- Assemblage du Background --- */
+
+.assemblage-bckg{
+    position: relative;
+    height: 570px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.assemblage-bckg img{
+    position: absolute;
+}
+
+/* -- Premier Plan -- */
+
+.assemblage-bckg .Bckg.Sky1{
+    top: 25px;
+    left: 10%;
+    max-height: 25%;
+    max-width: 25%;
+}
+
+.assemblage-bckg .Bckg.Sky2{
+    top: 25px;
+    right: 10%;
+    max-height: 25%;
+    max-width: 25%;
+}
+
+.assemblage-bckg .Bckg.House{
+    top: 150px;
+    left: 35%;
+    text-align: center;
+    max-height: 30%;
+    max-width: 30%;
+
+    animation: HouseAnimate 6s ease-in;
+    animation-iteration-count: infinite;
+}
+
+/* -- -- */
+
+/* -- Deuxième Plan -- */
+
+.assemblage-bckg .Bckg.Floor{
+    top: 50px;
+    left: 0;
+    max-height: 100%;
+    max-width: 100%;
+
+    animation: FloorAnimate 6s ease-in;
+    animation-iteration-count: infinite;
+}
+
+/* -- -- */
+
+/* -- Dernier Plan -- */
+
+.assemblage-bckg .Bckg.Shadow{
+    top: 200px;
+    right: -2.5%;
+    max-height: 100%;
+    max-width: 100%;
+
+    animation: ShadowAnimate 6s ease-in;
+    animation-iteration-count: infinite;
+}
+
+/* -- -- */
+
+/* --- --- */
